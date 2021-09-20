@@ -1,0 +1,6 @@
+git status - status
+git init - inicializa repositorio
+git commit - "empenha" repositorio para salvar
+git --bare - repositorio remoto
+git remote add "caminho" - cria repositori remoto
+git clone "caminho" - clona repositorio remoto
